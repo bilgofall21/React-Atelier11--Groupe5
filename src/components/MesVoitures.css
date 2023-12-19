@@ -1,0 +1,25 @@
+/* Ajoutez des styles pour la classe "MesVoitures" */
+.MesVoitures {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Ajoutez des styles pour la table */
+  .MesVoitures table {
+    width: 75%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin: 0 auto;
+  }
+  
+  /* Ajoutez des styles pour les cellules du tableau */
+  .MesVoitures th, .MesVoitures td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* Ajoutez des styles pour l'en-tête du tableau */
+  .MesVoitures th {
+    background-color: #f2f2f2;
+  }
+  
